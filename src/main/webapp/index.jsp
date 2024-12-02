@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT..!!<font> dgbdhfgbn dngbdkgd vmndbvdmn vdhbvdm </h1>
+<h1><font color='red'>Welcome to Ashok IT..!!<font> </h1>
   
   <h1> Software Training Institute </h1>
   
