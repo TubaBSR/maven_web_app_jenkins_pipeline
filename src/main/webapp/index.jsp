@@ -9,6 +9,8 @@
 
 <p> My name is Khan <p>
 
+<p> contct : 9045 ********52  <p>
+
 <a href="https://wa.me/+919985396677">Send Whatsapp Message<a>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
